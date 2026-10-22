@@ -57,3 +57,7 @@ Blockchain-Analysis/
 ├── screenshots/         # Visual proof and summary cards
 ├── reports/             # PDF summaries and deep dives
 └── README.md            # This file
+
+## On my portfolio
+
+- Listed with my other work at [ghostiemoh.com](https://ghostiemoh.com/#work)
